@@ -1,2 +1,5 @@
 # System-Programming
-A light weight kernel for Bochs
+
+I created this for my computer science class in which 
+
+## Bochs
