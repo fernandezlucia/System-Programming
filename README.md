@@ -1,6 +1,6 @@
 # System-Programming
 
-I created this for my computer science class in which 
+We developed this project for my computer science class in which the task was to recreate the basic structures of a small kernel and their functionality.
 
 ## Bochs
 
